@@ -14,4 +14,4 @@ What makes Koncept particularly compelling is its commitment to meritocracy. Ear
 
 In a world where privacy, control, and financial transparency are increasingly vital, Koncept stands as a beacon of change. By adopting Koncept, you're not only securing your data and privacy but also joining a community that believes in a meritocratic approach to earnings distribution, where your achievements and contributions are recognized, valued, and fully rewarded.
 
-Koncept uses its own digical tokens - [Eticcoins](https://github.com/new-koncept/documentation/term/eticcoin.md).
+Koncept uses its own digical tokens - [Eticcoins](https://github.com/new-koncept/documentation/blob/main/term/eticcoin.md).
