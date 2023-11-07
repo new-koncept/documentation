@@ -19,10 +19,10 @@ Finally, Koncept's commitment to security, data encryption, and predictable inte
 In a digital world that often prioritizes convenience over security, Koncept brings a refreshing change by placing data ownership, privacy, and control back in the hands of its users. If you're looking for a reliable and secure networking solution that empowers you in the digital realm, then Koncept is an option worth exploring.
 
 ## Ownership
-Ownership and Transparent Earnings Distribution
-
 One of the standout features of Koncept is the robust system of ownership and the fully transparent distribution of earnings. Koncept leverages the underlying blockchain technology to ensure that data ownership and financial transactions are both secure and transparent. In a digital ecosystem where trust is often in question, this transparency provides users with a clear and unambiguous view of how earnings are distributed and who truly owns the data.
 
 What makes Koncept particularly compelling is its commitment to meritocracy. Earnings distribution within the network strictly follows a merit-based system, where your contributions and personal achievements directly influence your rewards. It's a system that rewards active participation, innovation, and the quality of your interactions. By embracing meritocracy, Koncept empowers users to shape their own financial destinies, fostering an environment where excellence is encouraged and amply rewarded.
 
 In a world where privacy, control, and financial transparency are increasingly vital, Koncept stands as a beacon of change. By adopting Koncept, you're not only securing your data and privacy but also joining a community that believes in a meritocratic approach to earnings distribution, where your achievements and contributions are recognized, valued, and fully rewarded.
+
+Koncept uses its own digical tokens - [Eticcoins](https://github.com/new-koncept/documentation/term/eticcoin.md)
